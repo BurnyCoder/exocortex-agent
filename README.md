@@ -5,9 +5,9 @@ The Exocortex Agent is an AI-powered assistant that uses various tools and techn
 ## Features
 
 - Natural language interaction
-- RAG (Retrieval-Augmented Generation) capabilities (TODO: not fully implemented all features yet, it wont work now)
+- RAG (Retrieval-Augmented Generation) capabilities (TODO: not fully implemented all features yet, it doesn't work now)
 
-## Installation (it wont work now, but will soon)
+## Installation (it doesn't work now, but will soon)
 
 1. Clone the repository:
    ```
